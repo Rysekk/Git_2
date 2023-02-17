@@ -3,22 +3,22 @@ class class1 {
 public class1(){}
 
 fct1 {
-inst1;
+inst1...;//test
 inst2;
-inst3; // release
+inst3...; // release //test
 inst4; // release
 }
 
 fct2 {
-inst1;
+inst1...;//test
 inst2;
-inst3;
+inst3...;//test
 inst4; // release
 }
 
 fct3 {
 inst1;
-inst2;
+inst2...;//test
 inst3;
 }
 
