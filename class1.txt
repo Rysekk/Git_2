@@ -1,15 +1,21 @@
 class class1 {
 /**
-* comment
+* comment release2
 */
 public class1(){}
 
 // supprime f1
 
+fct11 {
+inst1 ...;//release2
+}
+
+
 fct2 {
 inst1...;//test
 inst2;
-//supprime ins3 // master
+inst3...*****;//test //release2
+inst4; // release
 }
 
 fct3 {

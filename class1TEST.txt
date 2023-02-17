@@ -1,11 +1,11 @@
 class class1TEST {
 
-fct1TEST1 {
-inst1;
-inst2;
-inst3; // release
-inst4; // release
+
+fctTEST11 {
+inst1 ...;//release2
 }
+
+//supprime f1TEST1
 
 fct2TEST1 {
 inst1;
